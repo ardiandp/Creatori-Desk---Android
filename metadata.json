@@ -1,0 +1,6 @@
+{
+  "name": "Creator Desk",
+  "description": "Aplikasi manajemen konten modern untuk kreator: simpan ide, racik hook video, jadwal posting kalender, dan pelacak kemajuan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
